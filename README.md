@@ -16,5 +16,5 @@ Pre-final year CSE Student @ National Engineering College
 <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/> <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/> <img width="48" height="48" src="https://img.icons8.com/color/48/apache-spark.png" alt="apache-spark"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="microsoft-excel-2019"/> 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AntoRaphael?theme=dark&font=Darker%20Grotesque&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AntoRaphael?theme=forest&font=Croissant%20One&ext=contest)
 
